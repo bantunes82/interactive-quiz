@@ -1,0 +1,11 @@
+1-)Requirements to run the project
+-Java SE 1.8
+-Maven 3
+
+2-)To run the program:
+- in Windows environment run the "run.bat" file
+
+3-)To import the interactive-quiz project to the Eclipse IDE, run the goal bellow in the folder "interactive-quiz"
+mvn eclipse:clean eclipse:eclipse
+
+

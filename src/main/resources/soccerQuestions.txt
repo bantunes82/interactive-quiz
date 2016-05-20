@@ -1,0 +1,47 @@
+description;level;answer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer....
+Which country has won more times the World Cup ?;BASIC;2;1-Germany;2-Brazil;3-Italy
+How many World Cup Brazil won ?;BASIC;3;1-Four;2-Six;3-Five  
+How many World Cup Germany won ?;BASIC;1;1-Four;2-Three;3-Five
+How many World Cup Italy won ?;BASIC;3;1-Five;2-Three;3-Four
+How many World Cup Argentina won ?;BASIC;2;1-One;2-Two;3-Three
+How many World Cup Uruguay won ?;BASIC;3;1-One;2-Three;3-Two
+How many World Cup France won ?;BASIC;1;1-One;2-Three;3-Two
+How many World Cup England won ?;BASIC;3;1-Two;2-None;3-One
+How many World Cup Spain won ?;BASIC;2;1-Two;2-One;3-Three
+How many World Cup Holland won ?;BASIC;3;1-Two;2-One;3-None
+How many World Cup Portugal won ?;BASIC;1;1-None;2-One;3-Two
+How many World Cup happened in Brazil ?;BASIC;1;1-Two;2-One;3-Three
+How many World Cup happened in Germany ?;BASIC;2;1-One;2-Two;3-Three	
+How many World Cup happened in United States ?;BASIC;2;1-Two;2-One;3-Three	
+How many World Cup happened in Mexico ?;BASIC;3;1-None;2-One;3-Two
+Which team has won more times the UEFA Champions League ?;INTERMEDIATE;1;1-Real Madrid;2-Barcelona;3-Bayern Munich
+How many UEFA Champions League Real Madrid won ?;INTERMEDIATE;3;1-Eight;2-Nine;3-Ten
+How many UEFA Champions League Milan won ?;INTERMEDIATE;2;1-Eight;2-Seven;3-Six
+How many UEFA Champions League Bayern Munich won ?;INTERMEDIATE;2;1-Four;2-Five;3-Six
+How many UEFA Champions League Barcelona won ?;INTERMEDIATE;3;1-Seven;2-Six;3-Five
+How many UEFA Champions League Liverpool won ?;INTERMEDIATE;2;1-Three;2-Five;3-Four
+How many UEFA Champions League Ajax won ?;INTERMEDIATE;1;1-Four;2-Three;3-Two
+How many UEFA Champions League Aston Villa won ?;INTERMEDIATE;2;1-None;2-One;3-Two
+How many UEFA Champions League Atletico Madrid won ?;INTERMEDIATE;1;1-None;2-One;3-Two
+How many UEFA Champions League Fiorentina won ?;INTERMEDIATE;3;1-One;-2Two;3-None
+How many UEFA Champions League Borussia Dortmund won ?;INTERMEDIATE;1;1-One;2-Two;3-None
+How many UEFA Champions League Celtic won ?;INTERMEDIATE;2;1-Two;2-One;3-None
+How many UEFA Champions League Hamburg won ?;INTERMEDIATE;3;1-Two;2-None;3-One
+How many UEFA Champions League Roma won ?;INTERMEDIATE;1;1-None;2-One;3-Two
+How many UEFA Champions League Arsenal won ?;INTERMEDIATE;2;1-One;2-None;3-Two
+Which team has won more times the Championship Brasilero ?;ADVANCED;2;1-Corinhtians;2-Sao Paulo;3-Flamengo
+How many Championship Brasilero Sao Paulo won ?;ADVANCED;2;1-Five;2-Six;3-Seven
+How many Championship Brasilero Corinthians won ?;ADVANCED;1;1-Five;2-Six;3-Seven
+How many Championship Brasilero Flamengo won ?;ADVANCED;3;1-Four;2-Six;3-Five
+How many Championship Brasilero Vasco da Gama won ?;ADVANCED;1;1-Four;2-Six;3-Five
+How many Championship Brasilero Sport won ?;ADVANCED;2;1-Two;2-One;3-None
+How many Championship Brasilero Bahia won ?;ADVANCED;3;1-Two;2-One;3-None
+How many Championship Brasilero Gremio won ?;ADVANCED;1;1-Two;2-One;3-None
+Which team has won more times the Championship Argentine ?;ADVANCED;2;1-Boca Juniors;2-River Plate;3-Racing
+How many Championship Argentine Boca Juniors won ?;ADVANCED;1;1-Thirty;2-Thirty One;3-Thirty Two
+How many Championship Argentine River Plate won ?;ADVANCED;3;1-Thirty Four;2-Thirty Five;3-Thirty Six
+How many Championship Argentine Racing won ?;ADVANCED;2;1-Sixteen;2-Seventeen;3-Eighteen
+How many Championship Argentine San Lorenzo won ?;ADVANCED;1;1-Fifteen;2-Sixteen;3-Seventeen
+How many Championship Argentine Huracan won ?;ADVANCED;1;1-Five;2-Six;3-Seven
+How many Championship Argentine Banfield won ?;ADVANCED;2;1-None;2-One;3-Two
+		

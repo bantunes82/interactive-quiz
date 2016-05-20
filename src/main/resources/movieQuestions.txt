@@ -1,0 +1,31 @@
+description;level;answer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer....
+How long the Harry Potter franchise were filmed ?;BASIC;3;1-Five;2-Six;3-Eight
+Complete the phrase name of one of the greatest franchises in science fiction: "the war ....";BASIC;2;1-Maldives;2-stars;3-Mars
+Which actress played the role of Black Widow in the movie The Avengers ?;BASIC;2;1-Nicole Kidman;2-Scalet Johansson;3-Jennifer Lopez
+Which Disney film, Walt Disney was inspired to make the main castle Magic Kingdom theme park in Orlando ?;BASIC;2;1-Snow White;2-Cinderella;3-Sleeping Beauty
+Which the name of the song that sings Elsa while building your ice castle in the film Frozen ?;BASIC;1;1-I am free;2-Icy heart;3-For once in eternity
+Which country goes the story of the movie "The book thief" ?;BASIC;1;1-Germany;2-Switzerland;3-Japan
+How many movies there are in Fast and Furious 2015 ?;BASIC;2;1-Six;2-Seven;3-Eight
+In the movie "The Lion King", which is the king's son's name ?;BASIC;1;1-Simba;2-Scar;3-Mufasa
+What is the favorite food of minions ?;BASIC;1;1-banana;2-ice cream;3-potato
+What is the "disease" that Dori had in Finding Nemo ?;BASIC;2;1-Temporary memory loss;2-Short-term memory loss;3-Constant loss of memory
+Where is located the zoo where live characters from Madagascar ?;INTERMEDIATE;3;1-London;2-Africa;3-New York
+What is the character who has not played in The Amazing Spider-Man ?;INTERMEDIATE;1;1-Mary Jane;2-uncle Ben;3-aunt May
+Which movie Lord of the Rings trilogy won the Oscar for Best Picture ?;INTERMEDIATE;1;1-the Fellowship of the Ring;2-the two towers;3-the return of the king
+which of the films is not an adaptation of the book of the author Nicholas Sparks ?;INTERMEDIATE;2;1-Diary of a passion;2-Bride in escape;3-The last music
+In which year the first run remake of King Kong ?;INTERMEDIATE;2;1-2000;2-2005;3-2006
+Which character begins the third film Sherek ?;INTERMEDIATE;1;1-Charmed;2-Sherek and Fiona;3-Sleeping Beauty
+Which is the realm name where they live Elsa and Anna in the film Frozen ?;INTERMEDIATE;1;1-Arendelle;2-Andalasia;3-Arandella
+What famous singer dubs Smurfette ?;INTERMEDIATE;2;1-Avril Lavigne;2-Katy Perry;3-Madona
+What is the name of the actress who plays vampire Jane in New Moon ?;INTERMEDIATE;3;1-Megan Fox;2-Hyden Panettiere;3-Dakota Fanning
+What are the names of the four characters in the movie Madagascar ?;INTERMEDIATE;1;1-Alex, Marty, Gloria and Melman;2-Alex, Marty, Carla and Melman;3-Alexandre, Marty, Gloria and Melman
+In The Amazing Spider-Man villain of the film is ?;ADVANCED;3;1-Dr. Octopus;2-green elf;3-lizard
+What is the Transformers theme song: It was Extinction?;ADVANCED;2;1-Honor to the End;2-Battle Cry;3-Have Faith Prime
+Which sport forest gump practice in the Olympics ?;ADVANCED;3;1-basketball;2-race;3-ping pong
+Which is Peeta Mellark district in the movie voracious games ?;ADVANCED;2;1-Seven;2-Twelve;3-Five
+What is the street name where lives Liesel, movie character the book thief ?;ADVANCED;2;1-Johan;2-Himmel;3-Jahkson
+From where the Oompa-Loompas came of "The fantastic chocolate factory" ?;ADVANCED;1;1-Loompalandia;2-Oompalopolis;3-island Oompa-Loompa
+When it was released the movie Avatar in Brazil ?;ADVANCED;1;1-12/19/2009;2-09/20/2008;3-10/15/2009
+How is known Johann Schmidt, one of the main enemies of Captain America ?;ADVANCED;3;1-skull;2-hydra;3-red skull
+What is the name of the director of the movie Madagascar 1?;ADVANCED;1;1-Eric Darnell;2-Eric Darnelly;3-Erico Darnell
+What's the name of Industry that Peter Parker was bitten in The Amazing Spider-Man ?;ADVANCED;2;1-Oscorpi;2-Oscorp;3-Okscorp

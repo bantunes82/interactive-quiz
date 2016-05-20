@@ -1,0 +1,6 @@
+description;level;answer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer....
+Which country has won more times the World Cup ?;BASIC;2;1-Germany;2-Brazil;3-Italy
+Which team has won more times the UEFA Champions League ?;INTERMEDIATE;1;1-Real Madrid;2-Barcelona;3-Bayern Munich
+Which team has won more times the Championship Brasilero ?;ADVANCED;2;1-Corinhtians;2-Sao Paulo;3-Flamengo
+
+		

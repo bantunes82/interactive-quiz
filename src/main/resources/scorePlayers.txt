@@ -1,0 +1,3 @@
+PlayerName,SoccerLevel,CorrectAnswers,QuestionsNumber,MovieLevel,CorrectAnswers,QuestionsNumber
+PEDRO;BASIC;0;0;BASIC;3;5
+BRUNO;BASIC;1;5;BASIC;3;5

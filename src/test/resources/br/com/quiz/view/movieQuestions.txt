@@ -1,0 +1,6 @@
+description;level;answer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer;possibleAnswer....
+How long the Harry Potter franchise were filmed ?;BASIC;3;1-Five;2-Six;3-Eight
+Where is located the zoo where live characters from Madagascar ?;INTERMEDIATE;3;1-London;2-Africa;3-New York
+Which is Peeta Mellark district in the movie voracious games ?;ADVANCED;2;1-Seven;2-Twelve;3-Five
+
+		
